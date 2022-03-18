@@ -1,4 +1,4 @@
-# Fuzzy-control-system
+# Fuzzy-logic-control-system
 Model logiki rozmytej, który przyjmuje parametry do numerycznej symulacji procesu kucia i pokazuje związek pomiędzy procentowym udziałem
 termomechanicznego zmęczenia narzędzia. System ma za zadanie pomóc użytkownikowi dobrać najbardziej optymalne parametry symulacji w programie
 QForm pod kątem jak najmniejszego zużycia narzędzi.
